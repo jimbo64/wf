@@ -5,7 +5,8 @@ p {margin: 0;}
 html, body{
    font-family: 'Arimo', sans-serif;
    font-size: 100%;
-   background:#fff; 
+   background:#fff;
+   
 }
 body a{
 	transition:0.5s all;
@@ -266,7 +267,7 @@ ul.nav{
 .website-top h3,.special-top h3{
 	color: #fff;
 	font-size: 1.5em;
-	font-weight: 600;
+	font-weight: 900;
 	margin: 0px auto;
 	width: 44%;
 	font-family: 'Raleway', sans-serif;
@@ -297,10 +298,7 @@ ul.nav{
 	
         	
 }
-.highlight {
-	background-color: #062f3c;
-	
-}
+
 /*--end aboutplayer--*/
 /*--- Responsive Tabs ---*/
 /******** SAP ************/
@@ -850,6 +848,7 @@ img.port-pic {
 }
 .about-main {
 	margin-top: 3em;
+		
 }
 .about-left h4{
 	color:#61b3de;
@@ -860,10 +859,11 @@ img.port-pic {
 	line-height: 1.4em;
 }
 .about-left p {
-	color: #cecdcd;
+	color: black;
 	font-size: 15px;
 	line-height: 1.8em;
 	margin: 10px 0px;
+	font-family: 'Raleway', sans-serif;
 }
 /*--start-strength--*/
 .strength-right h4{
