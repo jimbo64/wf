@@ -289,6 +289,19 @@ ul.nav{
     left: -50%;   
 }
 /*--end-email-thanks--*/
+/*--aboutplayer--*/
+.aboutp {
+	font-weight: bolder;
+	font-size: larger;
+	text-align: center;
+	
+        	
+}
+.highlight {
+	background-color: #062f3c;
+	
+}
+/*--end aboutplayer--*/
 /*--- Responsive Tabs ---*/
 /******** SAP ************/
 .sap_tabs{
@@ -2203,6 +2216,7 @@ img.port-pic {
 .strength-right h4 {
 	font-size: 1.25em;
 }
+
 .col-md-6.strength-left {
 	margin-bottom: 1.5em;
 }
