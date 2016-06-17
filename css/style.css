@@ -290,16 +290,25 @@ ul.nav{
     left: -50%;   
 }
 /*--end-email-thanks--*/
+
 /*--aboutplayer--*/
 .aboutp {
 	font-weight: bold;
 	font-size: larger;
 	text-align: center;
+	margin-top: 1cm;        	
+}
+/*--end aboutplayer--*/
+
+.submit{
+	font-weight: bold;
+	font-size: larger;
+	text-align: center;
+	margin-top: 1cm;
 	
-        	
+	
 }
 
-/*--end aboutplayer--*/
 /*--- Responsive Tabs ---*/
 /******** SAP ************/
 .sap_tabs{
@@ -1681,6 +1690,7 @@ img.port-pic {
 	width: 15%;
 	float: none;
 	margin: 0 auto;
+
 
 }
 .col-md-10.cmts-main-right {
