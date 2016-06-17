@@ -292,7 +292,7 @@ ul.nav{
 /*--end-email-thanks--*/
 /*--aboutplayer--*/
 .aboutp {
-	font-weight: bolder;
+	font-weight: bold;
 	font-size: larger;
 	text-align: center;
 	
@@ -1681,6 +1681,7 @@ img.port-pic {
 	width: 15%;
 	float: none;
 	margin: 0 auto;
+
 }
 .col-md-10.cmts-main-right {
 	width: 97%;

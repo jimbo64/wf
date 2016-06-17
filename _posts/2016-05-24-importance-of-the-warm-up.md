@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the importance of the warm up"
+title:  "The importance of the warm up"
 date:   2016-06-14 14:15 +0100
 author: "Jim"
 categories: category4
