@@ -1,20 +1,16 @@
 ---
 layout: post
-title:  "Move along"
-date:   2015-04-25 16:14:15 +0100
-author: "Big fat sweaty Boab"
-categories: categoryone
+title:  "Bloody Norah"
+date:   2015-04-25 14:15 +0100
+author: "Jim"
+categories: category1
 comments: true
 ---
-![injury](/assets/blog1.jpg)
-
+![injury](/assets/news-2.jpg)
 
 Nothing to see here. Move along.
 
 Thanks. 
-
-
-
 
 {% if page.comments %}
 <div id="disqus_thread"></div>

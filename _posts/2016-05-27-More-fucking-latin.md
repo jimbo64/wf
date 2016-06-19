@@ -3,13 +3,15 @@ layout: post
 title:  "More fucking latin!"
 date:   2016-05-27 16:14:15 +0100
 author: "Berty Fuckwit"
-categories: category4
+categories: category1
 comments: true
 ---
-![injury](/assets/blog1.jpg)
-
+![injury](/assets/news-3.jpg)
 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from<!--more-->"de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+
+
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
@@ -35,4 +37,3 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 {% endif %} 
-
