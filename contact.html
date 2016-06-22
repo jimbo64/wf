@@ -13,19 +13,19 @@ layout: default
 					<div class="col-md-6 contact-bottom-right">
 					<form action="https://formspree.io/jim.mc64@gmail.com" method="post">
 						<div class="contact-txt">
-							<input type="text" value="First Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'First Name';}"/>
-							<input type="text" value="Second Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Second Name';}"/>
-							<input type="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Id';}"/>
+							<input type="text" value="First Name" name="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'First Name';}"/>
+							<input type="text" value="Second Name" Name="Surname" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Second Name';}"/>
+							<input type="text" value="Email" name="Reply-to" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Id';}"/>
 							
 						</div>
 						<div class="contact-textarea">
-							<textarea value="Message:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message..</textarea>
+							<textarea value="Message:" name="Submitted-text" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message..</textarea>
 						</div>
 						<div class="contact-but">
 						        <input type="text" name="_gotcha" style="display:none" />
 							<input type="submit" value="SUBMIT" >
 							<input type="reset" value="CLEAR" >
-							<input type="hidden" name="_next" value="/index.html" />
+							<input type="hidden" name="_next" value="/thanks.html" />
 						</div>
 					</form>
 					</div>
