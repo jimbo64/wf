@@ -601,6 +601,10 @@ padding: 0;
 }
 img.port-pic {
 	width: 100%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+
 }
 .f-grid {
 	margin-bottom: 24px;
@@ -823,6 +827,9 @@ img.port-pic {
 	font-family: 'Raleway', sans-serif;
 	font-size: 18px;
 	font-weight: 600;
+
+
+
 	margin: 10px 2px 0px 6px;
 	-webkit-appearance: none;
 }
@@ -2207,6 +2214,7 @@ img.port-pic {
 	padding: 4.5em 0px 0px 0px;
 }
 .sub-text input[type="text"] {
+
 	width: 63%;
 	margin-right: 5px;
 	padding: 8px 12px;
