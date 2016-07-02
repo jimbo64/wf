@@ -14,8 +14,8 @@ At the time of writing, we don't have any doctors or nurses playing with us (not
 Truth be told, we'd rather not see them<!--more--> being used.
 One of the reasons we like to meet early, is to allow people to have a wee warm up, five - ten minutes can mean the difference between feeling fine the next day, or really struggling. 
 
-Since we've started, I've heard of a few over-stretching injuries, these are common injuries that can be avoided.
-We can't, and nor will we, force you to warm up, but it will be to your benefit if you do.
+Since we've started, I've heard of a few over-stretching injuries, these are common injuries which can be avoided.
+We can't, and nor will we, force you to warm up, but it's obviously to your benefit if you do.
 
 
 {% if page.comments %}
