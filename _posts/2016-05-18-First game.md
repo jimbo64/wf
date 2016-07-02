@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Oh michty"
-date:   2016-05-26 16:14:15 +0100
-author: "Berty Fuckwit"
+title:  "First game"
+date:   2016-05-18 16:14:15 +0100
+author: "Jim"
 categories: category1
 comments: true
 ---
 
-![injury](/assets/strength-1.jpg)
+![First-week](/assets/week1.jpg)
 
+First week of the walking football took place tonight. Only invited players were taking part,<!--more--> this was to see how much interest there may be, and to get people used to the rules.
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,<!--more--> you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+The venue is booked for 1 hour and the games were split into 3x20 minutes. 
+Although most players hadn't played for a number of years and were generally unfit, running (on and off the ball) was initially a problem. The other problem the players had was passing the ball too far in front, in a normal game of football, this would not be a problem, however, it doesn't work in walking football. 
 
-
+By the third game of the evening, most players had gotten used to the no running rule and there were some nice passing moves. One thing noted was the lack of goals scored, there were only two goals throughout the three games. 
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
@@ -38,5 +40,3 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 {% endif %} 
-
-
