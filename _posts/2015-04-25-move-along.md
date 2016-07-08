@@ -8,7 +8,7 @@ comments: true
 ---
 ![injury](/assets/news-3.jpg)
 
-Nothing to see here, move along. Nothing to see here, move along. Nothing to see here, move along. Nothing to see here, move along.
+Nothing to see here, move along. Nothing to see here, move along. Nothing to see here, move along. Nothing to see here, move along.<!--more-->
 
 Nothing to see here, move along. Nothing to see here, move along. Nothing to see here, move along.
 
