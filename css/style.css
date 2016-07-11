@@ -315,7 +315,7 @@ ul.nav{
 	clear:both;
 	padding: 1em 0 4em;
 	font-family: 'Roboto', sans-serif;
-	width: 80%;
+	width: 82%;
 	margin: 0 auto;
 }
 .top1{
@@ -345,7 +345,7 @@ ul.nav{
 	margin-right: 4.1em;
 	text-align: center;
 	list-style: none;
-	float: left;
+	float: right;
 	font-family: 'Raleway', sans-serif;
 	outline: none;
 	-webkit-transition: all 0.3s ease-out;
