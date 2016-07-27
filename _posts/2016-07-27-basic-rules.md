@@ -12,7 +12,7 @@ comments: true
 Just to clear up a few things, here are the basic rules/laws for walking football. 
 
 We, in Arbroath play with a below head height restriction,<!--more--> 
-this based on the height of an average person. This rule/law is usualy only forced/applied indoors, but we are trying to reduce the risk of head injuries and a promote a quick. ball to feet fast passing game.
+this based on the height of an average person. This rule/law is usually only forced/applied indoors, but we are trying to reduce the risk of head injuries and a promote a quick. ball to feet fast passing game.
 
 The full rules/laws can be downloaded from the link below. Just click to open. To save, right click and 'save link as'.
 
