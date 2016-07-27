@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic rules of walking football"
-date:   2016-07-27 22:00 +0100
+date:   2016-07-27 23:0 +0100
 author: "Jim"
 categories: category1
 comments: true
