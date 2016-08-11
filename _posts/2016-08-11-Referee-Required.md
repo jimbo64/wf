@@ -12,11 +12,11 @@ comments: true
 REFEREE REQUIRED.
 
 As our wee club grows, and because everyone who comes would rather play than referee, we are on the lookout for a referee.
-We are<!--more--> looking for someone who is currently refereeing, or someone who has previous refeering experience. 
+We are<!--more--> looking for someone who is currently refereeing, or someone who has previous refereeing experience. 
 There are few differences between regular football and walking football, the main one being (surprise surprise) that there is no running. Another difference is that it's a bit more chilled, you won't get any
 abuse thrown at you (certainly not in a serious way).
 
-Our games last one hour and you will be paid a pre-arranged fee. So, if you have a spare hour or so on a Wednesday evening between 19.15 and 20.15, please get in touch via the contacts page on this website.
+Our games last one hour and you will be paid a pre-arranged fee. So, if you have a spare hour or so on a Wednesday evening between 19.15 and 20.15, please get in touch via the contact page on this website.
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
