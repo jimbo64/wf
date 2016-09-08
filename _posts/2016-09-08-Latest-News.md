@@ -14,9 +14,9 @@ Hire costs etc.
 We have been informed that there is a possibilty that we might be eligible for a reduction in the cost for the pitch hire. <!--more--> Hoping to have this sorted out within the next two weeks. If successful, the cost per player will be reduced.   
 We will also be a applying for a grant through Scotrail. Hopefully, this will allow us to get new training bibs, footballs, a first aid kit etc.
 
-We now have a referee. He has a had a few weeks to settle in and is making a difference. One thing to note, (and it's the same thferee we have is totally impartial, if he doesn't see it, he can't give it, simple. just accept the decision and carry on playing.
+We now have a referee. He has a had a few weeks to settle in and is making a difference. One thing to note, (and it's the same the world over) the referee we have is totally impartial, if he doesn't see it, he can't give it, simple. Just accept the decision and carry on playing.
 
-Starting to see the same guys back every week (and a few new faces), this is great to see. As always, if you know anyone who might be interested, bring them along. Even if they just watch, they'll soon see that's it's not actually a bunch of guys using zimmer frames and walking sticks. 
+Starting to see the same guys back every week (and a few new faces), this is great to see. As always, if you know anyone who might be interested, bring them along. Even if they just watch, they'll soon see that's it's not a bunch of guys using zimmer frames and walking sticks.
 
 We wish all the guys who are currently injured a speedy recovery. We hope to see you back playing soon.
 
