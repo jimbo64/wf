@@ -7,7 +7,7 @@ categories: category1
 comments: true
 ---
 
-![Cost of hire](/assets/chairman.jpg)
+![latest](/assets/chairman.jpg)
 
 Hire costs etc.
 
