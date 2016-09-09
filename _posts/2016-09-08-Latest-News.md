@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Latest news"
-date:   2016-09-08 19:0 +0100
+date:   2016-09-08 21:0 +0100
 author: "Jim"
 categories: category1
 comments: true
 ---
 
-![latest](/assets/chairman.jpg)
+![latest](/assets/cm.jpg)
 
 Hire costs etc.
 
